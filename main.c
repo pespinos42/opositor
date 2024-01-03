@@ -20,16 +20,16 @@ int main(void)
         printf("%s", cadena_imprimir);
         free(cadena_imprimir);
         cadena_imprimir = ft_get_next_line(fd);
-        printf("%s", cadena_imprimir);
+        printf("a) %s", cadena_imprimir);
         free(cadena_imprimir);
         cadena_imprimir = ft_get_next_line(fd);
-        printf("%s", cadena_imprimir);
+        printf("b) %s", cadena_imprimir);
         free(cadena_imprimir);
         cadena_imprimir = ft_get_next_line(fd);
-        printf("%s", cadena_imprimir);
+        printf("c) %s", cadena_imprimir);
         free(cadena_imprimir);
         cadena_imprimir = ft_get_next_line(fd);
-        printf("%s", cadena_imprimir);
+        printf("d) %s", cadena_imprimir);
         free(cadena_imprimir);
         
         printf("\n");
