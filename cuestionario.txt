@@ -184,7 +184,7 @@ La provincia de Madrid.
 La ciudad de Madrid.
 La villa de Madrid.
 d
-32- Respecto al poder constituyente, es correcto afirmar que su ejercicio corresponde:
+32- Respecto al poder constituyente, es correcto afirmar que su ejercicio corresponde:c
 A los jueces.
 A la Nación.
 A las Cortes Generales.
@@ -213,4 +213,178 @@ Rígida.
 Acabada y cerrada.
 Adecuada a la realidad del país.
 Potencialmente transformadora.
+b
+37- Desde el punto de vista territorial, el Estado se define en la Constitución Española como:
+Monárquico.
+Social.
+Autonómico.
+Democrático.
+c
+38- La Constitución Española de 1978 establece como órgano que constituye el símbolo de la unidad y permanencia del Estado:
+A las Cortes Generales.
+Al poder constituyente.
+A las fuerzas armadas.
+Al Rey.
+d
+39- La Constitución Española de 1978 atribuye a las Cortes Generales la función:
+Legislativa.
+Judicial.
+Ejecutiva.
+Resolutoria.
+a
+40- La Constitución Española concibe como órgano de dirección política y administrativa del Estado:
+Al Gobierno.
+Al Rey.
+A las Cortes Generales.
+Al cuerpo electoral.
+a
+41- Como órgano de defensa jurídica de la Constitución Española de 1978 se considera en el texto constitucional a:
+Las Cortes Generales.
+Al poder judicial.
+Al defensor del pueblo.
+Al Tribunal Constitucional.
+d
+42- El Título Preliminar de la Constitución Española de 1978:
+Constituye un Título aparte del resto de los que componen la Constitución.
+Se integra en el Preámbulo de la Constitución.
+Se integra en el Título I de la Constitución.
+Se integra en el Título II de la Constitución.
+a
+43- Cuando la Consticuón Española de 1978, en el art. 9, establece el sometimiento a la Constitución y al resto del ordenamiento jurídico, se está refiriendo:
+A todos los ciudadanos.
+Sólo a los españoles.
+A los poderes públicos.
+Las respuestas a) y c) son correctas.
+d
+44- El artículo 9.2 de la Constitución Española de 1978, establece que corresponde a los poderes públicos promover las condiciones para que, sean reales y efectivos:
+Todos los derechos fundamentales.
+Todos los derechos reconocidos en el Título I de la Constitución.
+La justicia y el pluralismo político.
+La libertad e igualdad de los individuos.
+d
+45- De acuerdo con lo dispuesto en el art. 7 de la Constitución Española de 1978 las asociaciones empresariales defenderán:
+Cualquier interés de los empresarios.
+Cualquier interés que les sea propio.
+Cualquier interés que afecte a sus afiliados.
+Los intereses económicos y sociales que les sean propios.
+d
+46- En relación con los sindicatos, la Constitución Española de 1978 impone el carácter democrático:
+A sus opiniones.
+A sus dirigentes.
+A su funcionamiento.
+A sus afiliados.
+c
+47- El art. 9.2 de la Constitución Española de 1978 establece que corresponde a los poderes públicos facilitar la participación de todos los ciudadanos en:
+La vida cultural y social.
+Las elecciones sindicales.
+Los referéndum.
+La Seguridad Social.
+a
+48- Corresponde a las Fuerzas Armadas:
+La defensa del ordenamiento constitucional.
+La interpretación del ordenamiento constitucional.
+La imposición del ordenamiento constitucional.
+Ninguna de las respuestas es correcta.
+a
+49- Los sindicatos de trabajadores, según dispone el art. 7 de la Constitución Española de 1978, contribuyen a la defensa:
+De cualquier interés de sus afiliados.
+Sólo los intereses profesionales.
+De los intereses económicos y sociales que les sean propios.
+Los intereses de todos los españoles.
+c
+50- Establece la Constitución Española de 1978 en su art. 3, que las distintas modalidades lingüísticas de España:
+Es una manifestación del Estado de las Autonomías.
+Es un bien nacional..
+Es un Patrimonio cultural.
+Ninguna de las respuestas es correcta.
+c
+51- En el artículo 2 de la Constitución Española de 1978 reconoce el derecho a la autonomía de:
+El Estado.
+Las nacionalidades y regiones.
+España.
+El Gobienro.
+b
+52- En la Constitución Española de 1978 se considera como poderes del Estado:
+Poder ejecutivo, legislativo y judicial.
+Sólo el poder ejecutivo.
+Sólo el poder judicial.
+Sólo el poder legislativo.
+a
+53- Las Cortes Generales se componen:
+De una sola Cámara legislativa.
+De tres Cámaras legislativas.
+De dos Cámaras legislativas.
+No se compone de Cámaras legislativas.
+c
+54- En toda relación jurídico-administrativa:
+Existe una Administración y un particular, como sujetos activo y pasivo, respectivamente.
+La Administración es sujeto activo.
+Existe siempre una Administración como sujeto activo.
+La Administración es sujeto activo o pasivo.
+d
+55- Cuando la Administración está obligada a indemnizar, como consecuencia del servicio público, a los particulares:
+Actúa en un plano de igualdad con éstos.
+Es sujeto activo de la relación jurídico-administrativa.
+Es sujeto pasivo de la relación jurídico-administrativa.
+No se puede hablar propiamente de relación jurídico-procesal.
+c
+56- Todo administrado, por el hecho de serlo:
+Es sujeto pasivo de una relación jurídico-administrativa.
+Se encuentra en un estado de sujeción general frente a la Administración.
+Tiene la condición de interesado.
+Tiene interés directo y personal en todo procedimiento.
+b
+57- La capacidad de obrar ante las Administraciones Públicas:
+Faculta genéricamente para entablar relaciones jurídicas con la Administración.
+Confiera la condición de interesado en los procedimientos administrativos.
+No se reconoce en ningún caso a los menores de edad.
+Se rige por las normas civiles exclusivamente.
+a
+58- Los menores incapacitados:
+Carecen de la condición de interesados en un procedimiento administrativo.
+Carecen de capacidad de obrar ante las Administraciones Públicas cuando la extensión de su incapacitación afecte al ejercicio y defensa de los derechos e intereses de que se trate.
+Tienen la capacidad de obrar ante las Administraciones Públicas cuando la extensión de su incapacitación afecte al ejercicio y defensa de los derechos e intereses de que se trate.
+Se equiparan a los menores capaces, en el ámbito del procedimiento administrativo.
+b
+59- La legitimación en el procedimiento administrativo:
+Se reconoce a cualquier persona plenamente capaz.
+Se reconoce a los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.
+Se reconoce exclusivamente a titulares de derechos subjetivos, personales, legítimos y directos.
+Se reconoce incondicionalmente a todas las asociaciones y organizaciones representativas de intereses económicos y sociales.
+b
+60- Quienes promuevan un procedimiento como titulares de intereses legítimos:
+Pueden tener la condición de interesados en el procedimiento.
+TIenen derecho a que se le reintegren los gastos que ello les origine.
+Tienen la condición de interesados en el procedimiento.
+Tienen la obligación de intervenir en el procedimiento.
+c
+61- La representación en un procedimiento administrativo:
+Habrá de acreditarse siempre que la Administración lo requiera.
+Puede asumirse por cualquier persona que designe el interesado.
+Se presume para los actos de mero trámite.
+Habrá de ostentarla un gestor administrativo en todo caso.
+c
+62- Una vez designado representante por el interesado en un procedimiento administrativo:
+La ADministración requerirá la creditación de la representación otorgada.
+Aquél actuará en nombre propio ante la Administración.
+No podrá designarse otro distinto hasta que no finalice el procedimiento.
+Se entenderán con aquél las actuaciones administrativas, como regla.
+d
+63- Todo interesado podrá designar representante en un procedimiento administrativo:
+Salvo que aquél no tenga capacidad de obrar.
+A cualquier persona para que actúe en su nombre.
+Salvo para entablar recursos o desistir del procedimiento.
+Siempre que acredite ante la Administración haber otorgado la representación.
+a
+64- La acreditación de la representación en un procedimiento:
+Es siempre exigible antes de admitirse tal representación por la Administración.
+Ha de hacerse en todo caso mediante poder notarial o firma notarialmente legitimada.
+No es exigible para formular solicitudes, pero sí para entablar recursos.
+Es precisa para desistir de acciones.
+d
+65- La insuficiente acreditación de la representación en un procedimiento:
+Impide que se tenga por realizado el acto de que se trate.
+Obliga a la Administración a conceder un plazo de subsanación.
+Es un requisito insubsanable que impide resolver.
+Carece de efectos; no así la falta de tal acreditación.
 b
