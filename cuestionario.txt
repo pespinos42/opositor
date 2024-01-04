@@ -483,3 +483,4 @@ A comunicarse con las Administraciones Públicas a través de un Punto de Inform
 A comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico de la Administración.
 A comunicarse con la Administración General del Estado a través de un punto de acceso general electrónico.
 Ninguna de las anteriores es correcta.
+b
