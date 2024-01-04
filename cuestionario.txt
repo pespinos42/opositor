@@ -484,3 +484,27 @@ A comunicarse con las Administraciones Públicas a través de un Punto de Acceso
 A comunicarse con la Administración General del Estado a través de un punto de acceso general electrónico.
 Ninguna de las anteriores es correcta.
 b
+82- La representación se entenderá acreditada:
+Sólo cuando se realice por apoderamiento apud acta efectuado por comparecencia personal o comparecencia electrónica.
+Sólo cuando se realice por apoderamiento apud acta efectuado por comparecencia personal y comparecencia electrónica.
+Cuando se realice por apoderamiento apud acta sin comparecencia personal.
+Cuando se realice por apoderamiento apud acta efectuado por comparecencia personal o comparecencia electrónica o a través de la acreditación de su inscricpión en el registro electrónico de apoderamientos en la Administración Pública competente.
+d
+83- Los ciudadanos están obligados a facilitar a la Administración inspecciones:
+Siempre que la Administración les requiera fehacientemente.
+Cuando una norma así lo exija.
+En todo caso.
+En los casos previstos en las leyes.
+d
+84- La comparecencia de los ciudadanos ante la Administración será obligatoria:
+Siempre que la Administración les requiera fehacientemente.
+Cuando una norma así lo exija.
+En todo caso.
+Cuando lo prevea una norma con rango de ley.
+d
+85- En las citaciones que habrán de efectuarse para la comparecencia de los ciudadanos ante las Administraciones Públicas, tendrá que hacerse constar:
+El nombre del funcionario ante el que deberán comparecer.
+El DNI del ciudadano.
+Los efectos de no atender el requerimiento.
+El precepto en que se funde la obligación de comparecer.
+c
