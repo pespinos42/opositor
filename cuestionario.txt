@@ -354,7 +354,7 @@ Se reconoce incondicionalmente a todas las asociaciones y organizaciones represe
 b
 60- Quienes promuevan un procedimiento como titulares de intereses legítimos:
 Pueden tener la condición de interesados en el procedimiento.
-TIenen derecho a que se le reintegren los gastos que ello les origine.
+Tienen derecho a que se le reintegren los gastos que ello les origine.
 Tienen la condición de interesados en el procedimiento.
 Tienen la obligación de intervenir en el procedimiento.
 c
@@ -436,7 +436,7 @@ Es un derecho de todo el que reside en el mismo.
 Es una obligación de todo extranjero.
 Es un deber de todo español.
 d
-74- En los procedimiento tramitados por la Administración General del Estado en el territorio de una Comunidad Autónoma oficialmente biligüe, los interesados:
+74- En los procedimientos tramitados por la Administración General del Estado en el territorio de una Comunidad Autónoma oficialmente biligüe, los interesados:
 Podrán exigir, en lo que a la comunicación con ellos se refiere, la lengua distinta del castellano que sea cooficial en esa Comunidad Autónoma.
 Podrán solicitar, para su consideración potestativa por la Administración, y en cuanto haga la comunicación con ellos, que se tramite en la lengua distinta del castellano que sea oficial en esa Comunidad Autónoma.
 Podrán imponer, en cuanto a las comunicaciones que se entiendan con todos los interesados, cualquiera de las lenguas oficiales en esa Comunidad Autónoma.
@@ -628,7 +628,7 @@ Anulable.
 Rescindible.
 Meramente irregular.
 b
-106- Según el art. 48 de la Ley 39/2015, de 1 de octubre, el defecto de forma determina la anilabilidad del acto, entre otras causas, cuando:
+106- Según el art. 48 de la Ley 39/2015, de 1 de octubre, el defecto de forma determina la anulabilidad del acto, entre otras causas, cuando:
 De lugar a la indefensión de las personas interesadas.
 Lo imponga la naturaleza de la forma.
 Consista en la falta de firma.
@@ -717,6 +717,7 @@ No es posible rectificar esos errores si no es a través de procedimientos revis
 Cuatro años desde que se dictó el acto.
 En cualquier momento.
 Un año desde que se dictó el acto.
+c
 121- Contra las disposiciones administrativas de carácter general cabe:
 Recurso de alzada.
 Ningún recurso en vía administrativa.

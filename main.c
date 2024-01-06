@@ -7,11 +7,18 @@ void	ft_leaks(void)
 
 int main(void)
 {
-    atexit(ft_leaks);
+    //atexit(ft_leaks);
     int     fd;
     char    respuesta;
     char    *respuesta_fichero;
     char    *cadena_imprimir;
+    int     total_preguntas;
+    int     total_aciertos;
+    int     total_errores;
+
+    total_preguntas = 0;
+    total_aciertos = 0;
+    total_errores = 0;
 
     fd = open("cuestionario.txt", O_RDONLY);
     cadena_imprimir = ft_get_next_line(fd);
@@ -33,17 +40,31 @@ int main(void)
         free(cadena_imprimir);
         
         printf("\n");
-        printf("--RESPUESTA--> ");
+        printf("\033[1;30;47m--RESPUESTA-->\033[0m ");
         scanf("%c", &respuesta);
         respuesta_fichero = ft_get_next_line(fd);
         if (respuesta == respuesta_fichero[0])
-            printf("OK\n");
+        {
+            printf("\033[1;37;42mOK\033[0m\n");
+            total_aciertos++;
+        }
         else
-            printf("ERROR - RESPUESTA CORRECTA -> %s", respuesta_fichero);
+        {
+            printf("\033[1;37;41mERROR - RESPUESTA CORRECTA ->\033[0m %s", respuesta_fichero);
+            total_errores++;
+        }
+        total_preguntas++;
         printf("\n\n");
         respuesta = getchar();
         free(respuesta_fichero);
         cadena_imprimir = ft_get_next_line(fd);
     }
+    printf("\033[1;30;47mPREGUNTAS = %i    ACIERTOS = %i    ERRORES = %i\033[0m\n", total_preguntas, total_aciertos, total_errores);
+    if (total_errores == 0)
+    {
+        printf("\n");
+        printf("\033[1;37;42mTODO PERFE!\033[0m\n");        
+    }
+    printf("\n");
     return (0);
 }
