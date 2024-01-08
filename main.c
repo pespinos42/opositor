@@ -5,7 +5,7 @@ void	ft_leaks(void)
 	system("leaks -q opositor");
 }
 
-int main(void)
+int main(int argc, char **argv)
 {
     //atexit(ft_leaks);
     int     fd;
@@ -20,7 +20,18 @@ int main(void)
     total_aciertos = 0;
     total_errores = 0;
 
-    fd = open("cuestionario.txt", O_RDONLY);
+    if (argc != 2)
+    {
+        printf("NUMERO DE PARAMETROS ERRONEO\n");
+        exit(1);
+    }
+
+    fd = open(argv[1], O_RDONLY);
+    if (fd == -1)
+    {
+        printf("NO SE ENCUENTRA EL FICHERO\n");
+        exit(1);
+    }
     cadena_imprimir = ft_get_next_line(fd);
     while (cadena_imprimir && cadena_imprimir[0] != '\n')
     {
