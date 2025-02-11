@@ -1,6 +1,6 @@
 NAME	= opositor
 
-SRCS	= main.c \
+SRCS	= main2.c \
 gnl.c \
 gnl_utils.c 
 

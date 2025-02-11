@@ -33,6 +33,28 @@ int main(int argc, char **argv)
         exit(1);
     }
     cadena_imprimir = ft_get_next_line(fd);
+
+    printf("COMPROBANDO INTEGRIDAD DEL FICHERO\n");
+    while (cadena_imprimir && cadena_imprimir[0] != '\n')
+    {
+	    for (int i = 0; i <= 5; i++)
+	    {
+		    printf(".");
+		    free(cadena_imprimir);
+		    cadena_imprimir = ft_get_next_line(fd);
+	    }
+    }
+    printf("\nFICHERO OK\n");
+    close(fd);
+
+    fd = open(argv[1], O_RDONLY);
+    if (fd == -1)
+    {
+	    printf("NO SE ENCUENTRA EL FICHERO\n");
+	    exit(1);
+    }
+    cadena_imprimir = ft_get_next_line(fd);
+
     while (cadena_imprimir && cadena_imprimir[0] != '\n')
     {
         printf("%s", cadena_imprimir);
