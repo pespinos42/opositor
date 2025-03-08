@@ -8,6 +8,7 @@
 # include <stdio.h>
 # include <stdlib.h>
 # include <unistd.h> //PARA READ
+# include <string.h>
 
 char	*ft_get_next_line(int fd);
 char	*ft_strjoin(char *s1, char *s2);

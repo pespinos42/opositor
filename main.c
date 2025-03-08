@@ -15,14 +15,16 @@ int main(int argc, char **argv)
     int     total_preguntas;
     int     total_aciertos;
     int     total_errores;
+    int	    linea_error;
 
     total_preguntas = 0;
     total_aciertos = 0;
     total_errores = 0;
+    linea_error = 1;
 
     if (argc != 2)
     {
-        printf("NUMERO DE PARAMETROS ERRONEO\n");
+        printf("INTRODUZCA COMO PARAMETRO LA RUTA DEL FICHERO\nINTENTELO DE NUEVO\n");
         exit(1);
     }
 
@@ -37,12 +39,23 @@ int main(int argc, char **argv)
     printf("COMPROBANDO INTEGRIDAD DEL FICHERO\n");
     while (cadena_imprimir && cadena_imprimir[0] != '\n')
     {
-	    for (int i = 0; i <= 5; i++)
+	    for (int i = 0; i <= 4; i++)
 	    {
-		    printf(".");
+		    printf("%i-", linea_error);
 		    free(cadena_imprimir);
 		    cadena_imprimir = ft_get_next_line(fd);
+		    linea_error++;
 	    }
+	    if (strlen(cadena_imprimir) != 2)
+	    {
+		    printf("ERROR EN LA LINEA -> %i\n", linea_error);
+		    printf("LINEA -> %s", cadena_imprimir);
+		    printf("NUMERO DE CARACTERES -> %li\n", strlen(cadena_imprimir));
+		    free(cadena_imprimir);
+		    exit(1);
+	    }
+	    free(cadena_imprimir);
+	    cadena_imprimir = ft_get_next_line(fd);
     }
     printf("\nFICHERO OK\n");
     close(fd);
