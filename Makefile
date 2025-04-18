@@ -1,8 +1,8 @@
 NAME	= opositor
 
-SRCS	= main.c \
-gnl.c \
-gnl_utils.c 
+SRCS	= src/main.c \
+src/gnl.c \
+src/gnl_utils.c 
 
 OBJS	= $(SRCS:.c=.o)
 
