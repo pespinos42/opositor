@@ -9,12 +9,12 @@ int main(int argc, char **argv)
 {
     //atexit(ft_leaks);
     int     fd;
-    //char    respuesta;
-    //char    *respuesta_fichero;
+    char    respuesta;
+    char    *respuesta_fichero;
     char    *cadena_imprimir;
-    //int     total_preguntas;
-    //int     total_aciertos;
-    //int     total_errores;
+    int     total_preguntas;
+    int     total_aciertos;
+    int     total_errores;
     //int	    linea_error;
     char    *comprobacion_total_preguntas;
     int     total_lineas;
@@ -67,33 +67,9 @@ int main(int argc, char **argv)
 	    exit(1);
     }
 
-    //FIN DE PARTE NUEVA DE COMPROBACION POR NUMERO DE LINEAS
-
-/*    cadena_imprimir = ft_get_next_line(fd);
-
-    printf("COMPROBANDO INTEGRIDAD DEL FICHERO\n");
-    while (cadena_imprimir && cadena_imprimir[0] != '\n')
-    {
-	    for (int i = 0; i <= 4; i++)
-	    {
-		    printf("%i-", linea_error);
-		    free(cadena_imprimir);
-		    cadena_imprimir = ft_get_next_line(fd);
-		    linea_error++;
-	    }
-	    if (strlen(cadena_imprimir) != 2)
-	    {
-		    printf("ERROR EN LA LINEA -> %i\n", linea_error);
-		    printf("LINEA -> %s", cadena_imprimir);
-		    printf("NUMERO DE CARACTERES -> %li\n", strlen(cadena_imprimir));
-		    free(cadena_imprimir);
-		    exit(1);
-	    }
-	    free(cadena_imprimir);
-	    cadena_imprimir = ft_get_next_line(fd);
-    }
-    printf("\nFICHERO OK\n");
     close(fd);
+
+    //FIN DE PARTE NUEVA DE COMPROBACION POR NUMERO DE LINEAS
 
     fd = open(argv[1], O_RDONLY);
     if (fd == -1)
@@ -101,6 +77,8 @@ int main(int argc, char **argv)
 	    printf("NO SE ENCUENTRA EL FICHERO\n");
 	    exit(1);
     }
+    cadena_imprimir = ft_get_next_line(fd);
+    free(cadena_imprimir);
     cadena_imprimir = ft_get_next_line(fd);
 
     while (cadena_imprimir && cadena_imprimir[0] != '\n')
@@ -148,6 +126,5 @@ int main(int argc, char **argv)
     }
     printf("\n");
 
-    */
     return (0);
 }
